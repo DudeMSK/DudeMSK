@@ -7,7 +7,9 @@
 </h1>
 <h3 align="center">Web developer</h3>
 <hr>
-## 🛠️ Языки и инструменты
+<h3 align="center">
+🛠️ Языки и инструменты
+</h1>
   <br> 
     <p align="center"> 
       <img src="https://skillicons.dev/icons?i=html,css,js,python,postgres,git,figma,anaconda,flask,fastapi,bootstrap,discord,codepen,django,instagram,jquery,linux,windows" /> 
