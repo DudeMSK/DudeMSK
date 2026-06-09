@@ -6,9 +6,13 @@
 - Python, Flask, FastAPI Django
 - PostgreSQL
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DudeMSK)](https://github.com/DudeMSK/github-profile-trophy)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DudeMSK&theme=onedark)](https://github.com/DudeMSK/github-profile-trophy)
+## 🛠️ Языки и инструменты
+  <br> 
+    <p align="center"> 
+      <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" /> 
+      <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" /> 
+    </p> 
+  <hr>
 
 
 <!--
