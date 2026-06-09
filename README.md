@@ -6,7 +6,7 @@
 - Python, Flask, FastAPI Django
 - PostgreSQL
 
-<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json">
+[<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json">](https://github.com/badges/shields/raw/master/package.json)
 
 
 <!--
