@@ -9,7 +9,7 @@
 ## 🛠️ Языки и инструменты
   <br> 
     <p align="center"> 
-      <img src="https://skillicons.dev/icons?i=html,css,js,python,postgres,git,figma,anaconda,flask,fastapi" /> 
+      <img src="https://skillicons.dev/icons?i=html,css,js,python,postgres,git,figma,anaconda,flask,fastapi,bootstrap,discord,vk,tg" /> 
     </p> 
   <hr>
 
