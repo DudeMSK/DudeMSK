@@ -6,6 +6,7 @@
   <img src="https://forum.radmirv.com/data/avatars/h/116/116605.jpg?1757683830" width="72" height="72"/>
 </h1>
 <h3 align="center">Web developer</h3>
+<hr>
 <h3 align="center">
 🛠️ Языки и инструменты
 </h1>
