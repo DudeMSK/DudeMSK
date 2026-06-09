@@ -8,6 +8,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DudeMSK)](https://github.com/DudeMSK/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=DudeMSK&theme=onedark)](https://github.com/DudeMSK/github-profile-trophy)
+
 
 <!--
 **DudeMSK/DudeMSK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
