@@ -2,8 +2,8 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5pNDh3enh0OTUxNjIwOHNoNDR6am9hYnZvZnF4cWszZW9oOTVmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jWexOOlYe241y/giphy.gif" width="72" height="72"/>
   Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Arthur</a>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNndTI5NHlhM2w2YTJrcmNoODN0aDlpMWxlM2ZuN3d2bGp6ejI5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9wrgzv8ZmnfmUZqVvo/giphy.gif" width="72" height="72"/>
+  <img src="https://forum.radmirv.com/data/avatars/h/116/116605.jpg?1757683830" width="72" height="72"/>
 </h1>
-<img src="https://forum.radmirv.com/data/avatars/h/116/116605.jpg?1757683830" width="72" height="72"/>
 <h3 align="center">Web developer</h3>
 
 ## Технический стек
