@@ -1,7 +1,7 @@
 <h1 align="center">
   
   Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Arthur</a>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNndTI5NHlhM2w2YTJrcmNoODN0aDlpMWxlM2ZuN3d2bGp6ejI5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9wrgzv8ZmnfmUZqVvo/giphy.gif" width="32" height="32"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNndTI5NHlhM2w2YTJrcmNoODN0aDlpMWxlM2ZuN3d2bGp6ejI5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9wrgzv8ZmnfmUZqVvo/giphy.gif" width="52" height="52"/>
 </h1>
 <h3 align="center">Web developer</h3>
 
