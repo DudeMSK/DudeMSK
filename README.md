@@ -6,6 +6,9 @@
 - Python, Flask, FastAPI Django
 - PostgreSQL
 
+<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json">
+
+
 <!--
 **DudeMSK/DudeMSK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
